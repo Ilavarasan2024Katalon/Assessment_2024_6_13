@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>8b3f1ea3-47c5-4130-9683-07ceb6afc0fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[2]/section[2]/div/div/div/div[2]/div[3]/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.col-md-3 > div > a >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>bd1864b5-c4dd-4c22-b131-76bdfa8789de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>museumpics/01.jpg</value>
+      <webElementGuid>c885093b-d772-432e-893d-7c688ad2d8c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;main-content&quot;]/section[2]/div[@class=&quot;container-fluid pt-30 pb-40&quot;]/div[@class=&quot;section-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-10 col-xl-10 col-md-9&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/div[1]/a[1]/img[1]</value>
+      <webElementGuid>678371a1-f112-4be9-a16f-1a591a73a672</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[2]/section[2]/div/div/div/div[2]/div[3]/div/div/a/img</value>
+      <webElementGuid>17217aae-d132-406b-8ce5-ae7c3a0eb77a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/img</value>
+      <webElementGuid>ed299958-0132-4dcf-a9a4-c87c031563da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'museumpics/01.jpg']</value>
+      <webElementGuid>1c66bbe8-3c43-493a-9828-756a6f6ac9f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

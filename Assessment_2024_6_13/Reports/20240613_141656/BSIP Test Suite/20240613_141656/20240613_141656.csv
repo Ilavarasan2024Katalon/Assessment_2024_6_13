@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+BSIP Test Suite,Chrome 125.0.0.0,,,13-06-2024 14:17:03,13-06-2024 14:18:30,1m - 26.853s,FAILED
+,,,,,,,
+Test Cases/BSIP_TestCase1,Chrome 125.0.0.0,,,13-06-2024 14:18:08,13-06-2024 14:18:30,21.861s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:18:08,13-06-2024 14:18:10,2.141s,PASSED
+"navigateToUrl(""https://www.bsip.res.in/"")",Chrome 125.0.0.0,,,13-06-2024 14:18:10,13-06-2024 14:18:25,15.197s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_Welcome to BSIP  Birbal Sahni Institut_9bf31a/img""))",Chrome 125.0.0.0,,,13-06-2024 14:18:25,13-06-2024 14:18:26,0.444s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_Welcome to BSIP  Birbal Sahni Institut_9bf31a/p_Pillai S.S.K., Sebastian R.A., Mathews R._6e7ff5""))",Chrome 125.0.0.0,,,13-06-2024 14:18:26,13-06-2024 14:18:26,0.443s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_Welcome to BSIP  Birbal Sahni Institut_9bf31a/p_Pillai S.S.K., Sebastian R.A., Mathews R._6e7ff5""))",Chrome 125.0.0.0,,,13-06-2024 14:18:26,13-06-2024 14:18:27,0.414s,PASSED
+"click(findTestObject(""Object Repository/Page_Welcome to BSIP  Birbal Sahni Institut_9bf31a/p_Mehrotra N, Shah SK, Kar R. 2024. Palynol_b5b134""))",Chrome 125.0.0.0,,,13-06-2024 14:18:27,13-06-2024 14:18:27,0.305s,PASSED
+"click(findTestObject(""Object Repository/Page_Welcome to BSIP  Birbal Sahni Institut_9bf31a/a__showhide""))",Chrome 125.0.0.0,,,13-06-2024 14:18:27,13-06-2024 14:18:27,0.324s,PASSED
+"click(findTestObject(""Object Repository/Page_Welcome to BSIP  Birbal Sahni Institut_9bf31a/a_Structure""))",Chrome 125.0.0.0,,,13-06-2024 14:18:27,13-06-2024 14:18:28,0.297s,PASSED
+"click(findTestObject(""Object Repository/Page_Welcome to BSIP  Birbal Sahni Institut_9bf31a/a_Structure""))",Chrome 125.0.0.0,,,13-06-2024 14:18:28,13-06-2024 14:18:28,0.440s,PASSED
+"click(findTestObject(""Object Repository/Page_Welcome to BSIP  Birbal Sahni Institut_9bf31a/a_Staff""))",Chrome 125.0.0.0,,,13-06-2024 14:18:28,13-06-2024 14:18:28,0.286s,PASSED
+"click(findTestObject(""Object Repository/Page_Welcome to BSIP  Birbal Sahni Institut_9bf31a/a_Research""))",Chrome 125.0.0.0,,,13-06-2024 14:18:28,13-06-2024 14:18:29,0.307s,PASSED
+"click(findTestObject(""Object Repository/Page_Welcome to BSIP  Birbal Sahni Institut_9bf31a/a_Publications""))",Chrome 125.0.0.0,,,13-06-2024 14:18:29,13-06-2024 14:18:29,0.326s,PASSED
+"click(findTestObject(""Object Repository/Page_Welcome to BSIP  Birbal Sahni Institut_9bf31a/i_Consultancy_fa fa-angle-down""))",Chrome 125.0.0.0,,,13-06-2024 14:18:29,13-06-2024 14:18:29,0.293s,PASSED
+"click(findTestObject(""Object Repository/Page_Welcome to BSIP  Birbal Sahni Institut_9bf31a/a_Catalogues""))",Chrome 125.0.0.0,,,13-06-2024 14:18:29,13-06-2024 14:18:30,0.620s,FAILED

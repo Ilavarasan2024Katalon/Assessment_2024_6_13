@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Mrs. Savitri Sahni_pull-left m-10 savitri</name>
+   <tag></tag>
+   <elementGuidId>20c26e23-16b5-40c0-9018-f66c901492e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.pull-left.m-10.savitri</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div[2]/section[2]/div/div/div/div[2]/div[2]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>section >> internal:has-text=&quot;Profile History Parental Background Education Career General Interest Incident o&quot;i >> img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e235a4fe-0a7d-4ea2-a6d8-bb6ca08ff4a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>images/pages/savitri-sahni-1.jpg</value>
+      <webElementGuid>5e80c543-2c55-44a4-a380-315e971b4fbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pull-left m-10 savitri</value>
+      <webElementGuid>0c337d4c-1b8f-4c3d-bac7-53c5cf7f85ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;main-content&quot;]/section[2]/div[@class=&quot;container-fluid pt-30 pb-40&quot;]/div[@class=&quot;section-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/img[@class=&quot;pull-left m-10 savitri&quot;]</value>
+      <webElementGuid>5e2607b7-2b2a-418d-8310-4779264ad13a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div[2]/section[2]/div/div/div/div[2]/div[2]/div/img</value>
+      <webElementGuid>76e1ec9f-2a15-4992-8cf9-73d5d3921ab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/img</value>
+      <webElementGuid>9857858e-ad3c-4acd-85f6-a14421045422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'images/pages/savitri-sahni-1.jpg']</value>
+      <webElementGuid>44fd0e1c-5e8a-4e39-85c4-ffde7b373b05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
